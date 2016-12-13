@@ -6,6 +6,7 @@
 
 # 第一堂課
 ![1](/images/image1.PNG "1")
+專案實作 範例：https://github.com/Kantai235/Cookie-Click-Game-for-Android
 
 # 第二堂課
 等待補充。
